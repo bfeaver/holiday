@@ -1,5 +1,5 @@
 {
-    "name": "brianf/holiday",
+    "name": "bfeaver/holiday",
     "description": "Utility for checking holidays.",
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
